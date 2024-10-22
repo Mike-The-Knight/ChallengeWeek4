@@ -15,7 +15,7 @@ conda activate control
 
 ### Step 2: Download the Models
 
-After activating the environment, download the required models by running the 'download_models.py' script:
+After activating the environment, download the required models by running the `download_models.py` script:
 
 ```bash
 python download_models.py
